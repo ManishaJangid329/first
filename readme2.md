@@ -11,3 +11,7 @@ again i addd these lines
 
 lets change to try git fetch and git checkout 
 
+
+try git pull 
+
+
