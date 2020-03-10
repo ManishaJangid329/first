@@ -1,11 +1,9 @@
 read me 
 hello world again !!
-d
-sffs
-some text will be deleted off 
-master added
 
-i addd these lines 
+hello to check merge 
+
+aaa
 again i addd these lines 
 
 
